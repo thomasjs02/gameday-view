@@ -1,4 +1,4 @@
-# vue-transportation-booking
+# gameday-vue
 
 ## Project setup
 ```
