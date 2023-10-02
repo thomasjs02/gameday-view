@@ -3,7 +3,8 @@ import { ApolloClient, InMemoryCache, createHttpLink } from '@apollo/client';
 
 const httpLink = createHttpLink({
   // uri: 'http://localhost:4000/',
-  uri: 'https://gamedaylgx-15f0168cce7e.herokuapp.com/',
+  // uri: 'https://gamedaylgx-15f0168cce7e.herokuapp.com/',
+  uri: 'https://gamedaylgx-15f0168cce7e.herokuapp.com/graphql',
 });
 
 const apolloClient = new ApolloClient({
