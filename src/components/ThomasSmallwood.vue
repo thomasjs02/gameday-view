@@ -12,6 +12,20 @@
             <h2 class="mt-2 md:text-5xl text-3xl font-medium tracking-tight">Thomas J Smallwood</h2>
             <p class="mt-6 leading-7 text-gray-500 dark:text-gray-400">Thank you for your time and interest. I'm eager to contribute my skills and passion to help Gameday LGX achieve its vision. Let's build something great together.
             </p>
+            <div class="text-center mt-2">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/yOJ8n1l6HpU?si=Eju1sZ4BPQky-Z60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            <div class="mt-5">
+              <strong>Repo</strong>
+              <ul>
+                <li>
+                  <a href="https://github.com/thomasjs02/gameday-view" target="_blank">View</a>
+                </li>
+                <li>
+                  <a href="https://github.com/thomasjs02/gameday-graphql" target="_blank">Graphql API</a>
+                </li>
+              </ul>
+            </div>
             <div class="mt-5">
               <a href="https://www.thomasjsmallwood.com" target="_blank">Personal Website</a>
             </div>
